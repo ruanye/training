@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,O as o}from"./chunks/framework.4afe7240.js";const f=JSON.parse('{"title":"企业实际团队协作开发流程","description":"","frontmatter":{},"headers":[],"relativePath":"01.md","filePath":"01.md"}'),_={name:"01.md"},i=o("",4),l=[i];function p(r,s,c,n,d,h){return t(),a("div",null,l)}const u=e(_,[["render",p]]);export{f as __pageData,u as default};

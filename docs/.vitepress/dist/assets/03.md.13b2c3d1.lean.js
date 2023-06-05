@@ -1,0 +1,1 @@
+import{_ as e,o as i,c as t,O as a}from"./chunks/framework.4afe7240.js";const x=JSON.parse('{"title":"Vue2.x 中构建大型项目","description":"","frontmatter":{},"headers":[],"relativePath":"03.md","filePath":"03.md"}'),l={name:"03.md"},o=a("",3),p=[o];function _(r,u,c,s,n,d){return i(),t("div",null,p)}const h=e(l,[["render",_]]);export{x as __pageData,h as default};
