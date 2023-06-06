@@ -5,19 +5,21 @@ export default defineConfig({
   lang: 'zh-cn',
   title: '蓝桥云课',
   description: 'Vite & Vue powered static site generator.',
-
+  markdown: {
+    lineNumbers: true //开始 mark 代码行号显示
+  },
   themeConfig: {
     nav: [
       { text: '开发流程', link: '/01' },
 
-      // {
-      //   text: 'Dropdown Menu',
-      //   items: [
-      //     { text: 'Item A', link: '/item-1' },
-      //     { text: 'Item B', link: '/item-2' },
-      //     { text: 'Item C', link: '/item-3' },
-      //   ],
-      // },
+      {
+        text: 'Dropdown Menu',
+        items: [
+          { text: 'Item A', link: '/item-1' },
+          { text: 'Item B', link: '/item-2' },
+          { text: 'Item C', link: '/item-3' },
+        ],
+      },
 
       // ...
     ],
@@ -34,7 +36,7 @@ export default defineConfig({
         text: 'vue2.x 构建大型项目',
         items: [
           { text: 'Vue2.x 中构建大型项目', link: '/03' },
-          { text: 'Vue2.x 中构建大型项目', link: '/04' },
+          { text: 'VUE-CLI', link: '/04' },
         ]
       },
       {
