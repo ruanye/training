@@ -42,8 +42,8 @@ export default defineConfig({
       {
         text: '项目制作',
         items: [
-          { text: '首页', link: '/05' },
-          { text: 'Vue2.x 中构建大型项目', link: '/04' },
+          { text: '开发首页', link: '/05' },
+          { text: '开发登录页', link: '/06' },
         ]
       }
       
