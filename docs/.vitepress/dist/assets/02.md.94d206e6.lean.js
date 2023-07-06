@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,O as l}from"./chunks/framework.4afe7240.js";const o="/assets/a.ae0f9195.png",f=JSON.parse('{"title":"团队成员分工及职责","description":"","frontmatter":{},"headers":[],"relativePath":"02.md","filePath":"02.md"}'),s={name:"02.md"},r=l("",16),i=[r];function p(c,n,_,d,h,m){return e(),t("div",null,i)}const T=a(s,[["render",p]]);export{f as __pageData,T as default};

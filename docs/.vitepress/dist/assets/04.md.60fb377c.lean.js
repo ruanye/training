@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t,O as c}from"./chunks/framework.4afe7240.js";const C=JSON.parse('{"title":"VUE-CLI","description":"","frontmatter":{},"headers":[],"relativePath":"04.md","filePath":"04.md"}'),o={name:"04.md"},s=c("",9),l=[s];function p(i,d,n,r,u,_){return a(),t("div",null,l)}const m=e(o,[["render",p]]);export{C as __pageData,m as default};
