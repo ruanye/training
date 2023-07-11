@@ -35,6 +35,7 @@ export default defineConfig({
         items: [
           { text: '开发首页', link: '/05' },
           { text: '开发登录页', link: '/06' },
+          { text: 'axios 封装', link: '/07' },
         ]
       }
       
