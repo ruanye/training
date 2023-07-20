@@ -37,7 +37,8 @@ export default defineConfig({
           { text: '开发登录页', link: '/06' },
           { text: 'axios 封装', link: '/07' },
           { text: 'vuex', link: '/08' },
-          { text: '歌单', link: '/09' },
+          { text: '打包发布配置 ', link: '/09' },
+          { text: '传值以及简历的写法', link: '/10' },
         ]
       }
       

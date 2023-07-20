@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,O as l}from"./chunks/framework.4afe7240.js";const p="/assets/05-1.121addf7.png",b=JSON.parse('{"title":"开发首页","description":"","frontmatter":{},"headers":[],"relativePath":"05.md","filePath":"05.md"}'),o={name:"05.md"},e=l("",59),r=[e];function t(c,D,F,y,i,C){return n(),a("div",null,r)}const u=s(o,[["render",t]]);export{b as __pageData,u as default};
