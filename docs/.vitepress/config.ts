@@ -1,46 +1,46 @@
 import { defineConfig } from 'vitepress';
-
 // refer https://vitepress.vuejs.org/config/introduction for details
 export default defineConfig({
   lang: 'zh-cn',
-  title: '蓝桥云课',
+  title: '寒假师资培训',
   description: 'Vite & Vue powered static site generator.',
   markdown: {
     lineNumbers: true //开始 mark 代码行号显示
   },
   themeConfig: {
     nav: [
-      { text: '开发流程', link: '/01' },
-
+      { text: '人培方案', link: '/01' },
       // ...
     ],
 
     sidebar: [
       {
-        text: '工作流程',
+        text: '人培方案和课程体系',
         items: [
-          { text: '开发流程', link: '/01' },
-          { text: '团队成员及分工', link: '/02' },
+          { text: '人培方案和课程体系', link: '/01' },
+        
         ],
       },
       {
-        text: 'vue2.x 构建大型项目',
+        text: '课程、项目技术讲解',
         items: [
-          { text: 'Vue2.x 中构建大型项目', link: '/03' },
+          { text: '课程项目技术讲解', link: '/03' },
           { text: 'VUE-CLI', link: '/04' },
         ]
       },
       {
-        text: '项目制作',
+        text: '蓝桥杯',
         items: [
-          { text: '开发首页', link: '/05' },
-          { text: '开发登录页', link: '/06' },
-          { text: 'axios 封装', link: '/07' },
-          { text: 'vuex', link: '/08' },
-          { text: '打包发布配置 ', link: '/09' },
-          { text: '传值以及简历的写法', link: '/10' },
+          { text: '蓝桥杯 WEB 赛项', link: '/05' },
+          { text: '蓝桥杯 WEB 赛项真题解析', link: '/06' },
         ]
-      }
+      },
+      {
+        text: '',
+        items: [
+          { text: '鸿蒙开发介绍', link: '/05' }
+        ]
+      },
       
     ],
   },

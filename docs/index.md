@@ -2,13 +2,13 @@
 layout: home
 
 hero:
-  name: 前端项目实训课
-  text: 项目驱动式教学
-  tagline:  学会如何构建交互式的单页面应用程序，使用 Vuex 来管理应用程序的状态，Vue-router 管理路由，组件多种传值方式等...
+  name: 寒假师资培训
+  text: 欢迎各位老师参加前端方向的培训
+  tagline:  
 
   actions:
     - theme: brand
-      text: 开始学习
+      text: 开始
       link: /01
     - theme: alt
       text: View on GitHub
