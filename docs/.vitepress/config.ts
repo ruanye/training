@@ -25,13 +25,13 @@ export default defineConfig({
         text: '课程、项目技术讲解',
         items: [
           { text: '课程项目技术讲解', link: '/03' },
-          { text: 'VUE-CLI', link: '/04' },
+          { text: 'TS 快速入门', link: '/ts' },
         ]
       },
       {
         text: '蓝桥杯',
         items: [
-          { text: '蓝桥杯 WEB 赛项', link: '/05' },
+          { text: '蓝桥杯 WEB 赛项', link: '/02' },
           { text: '蓝桥杯 WEB 赛项真题解析', link: '/06' },
         ]
       },
