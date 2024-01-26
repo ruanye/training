@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,O as r}from"./chunks/framework.4afe7240.js";const d=JSON.parse('{"title":"人培方案与课程体系","description":"","frontmatter":{},"headers":[],"relativePath":"01.md","filePath":"01.md"}'),n={name:"01.md"},i=r("",9),s=[i];function l(o,h,c,w,p,_){return e(),t("div",null,s)}const u=a(n,[["render",l]]);export{d as __pageData,u as default};

@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,O as l}from"./chunks/framework.4afe7240.js";const C=JSON.parse('{"title":"axios 封装","description":"","frontmatter":{},"headers":[],"relativePath":"07.md","filePath":"07.md"}'),p={name:"07.md"},o=l("",5),e=[o];function r(t,c,F,y,D,i){return n(),a("div",null,e)}const b=s(p,[["render",r]]);export{C as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.4afe7240.js";const A=JSON.parse('{"title":"TS 快速入门","description":"","frontmatter":{},"headers":[],"relativePath":"ts.md","filePath":"ts.md"}'),p={name:"ts.md"},e=l("",17),o=[e];function r(t,c,i,y,C,D){return a(),n("div",null,o)}const d=s(p,[["render",r]]);export{A as __pageData,d as default};

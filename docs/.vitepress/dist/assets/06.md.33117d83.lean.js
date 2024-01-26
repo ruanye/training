@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,O as l}from"./chunks/framework.4afe7240.js";const A=JSON.parse('{"title":"蓝桥杯 WEB 赛项真题解析","description":"","frontmatter":{},"headers":[],"relativePath":"06.md","filePath":"06.md"}'),p={name:"06.md"},o=l("",72),e=[o];function r(c,t,F,y,D,i){return n(),a("div",null,e)}const b=s(p,[["render",r]]);export{A as __pageData,b as default};

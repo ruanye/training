@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,O as l}from"./chunks/framework.4afe7240.js";const A=JSON.parse('{"title":"打包发布配置","description":"","frontmatter":{},"headers":[],"relativePath":"09.md","filePath":"09.md"}'),p={name:"09.md"},o=l("",22),e=[o];function r(c,t,D,y,F,i){return n(),a("div",null,e)}const b=s(p,[["render",r]]);export{A as __pageData,b as default};
